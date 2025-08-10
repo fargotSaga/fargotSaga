@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm Arsen Sagatbekov</h1>
-<h3 align="center">I'm a Computer Science student at Dublin City University with practical experience in full-stack web development</h3>
+# 👋 Hi, I'm Arsen Sagatbekov
 
-- 🔭 I’m currently working on **Welcome Stream Video AI**
+🎯 **Aspiring Full-Stack Web & Software Developer**  
+📍 Dublin, Ireland  
+📧 [asaga.fargot@gmail.com](mailto:asaga.fargot@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/arsen-sagatbekov-538a74315)  
 
-- 🌱 I’m currently learning **Laravel, Vue.JS, PostgreSQL**
+---
 
-- 📫 How to reach me **asaga.fargot@gmail.com**
+## 💡 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arsen-sagatbekov-538a74315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsen-sagatbekov-538a74315" height="30" width="40" /></a>
-</p>
+I'm a **Computer Science student at Dublin City University** with practical experience in **full-stack web development** and a background in **office administration**.  
+I’m passionate about building **robust, user-friendly applications**, contributing to **innovative projects**, and solving **real-world problems through technology**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Currently seeking **internship opportunities** to apply and expand my programming and problem-solving skills in a dynamic team environment.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fargotsaga&show_icons=true&locale=en&layout=compact" alt="fargotsaga" /></p>
+---
 
+## 🛠 Tech Stack
+
+**Languages & Frameworks:**  
+`Python (Django)` • `Java` • `PHP (Laravel)` • `HTML5` • `CSS3` • `Tailwind CSS` • `JavaScript (ReactJS, VueJS)`
+
+**Databases:**  
+`MySQL` • `PostgreSQL` • `MongoDB`
+
+**Tools & Systems:**  
+`Git` • `CRM Systems` • `CI/CD` • `MacOS` • `Windows` • `Linux`
+
+**Core Concepts:**  
+Data Structures • Algorithms • Software Debugging • Code Optimization
+
+---
+
+## 📌 Notable Projects
+
+- **E-Commerce Website for "Aurora" LLP**  
+  Built a full-stack online store with secure payments and delivery integration, boosting sales by 35%.  
+  *Stack:* PHP, MySQL, HTML5, CSS3, JavaScript  
+---
+
+## 📫 Let’s Connect!
+
+- 📧 **Email:** [asaga.fargot@gmail.com](mailto:asaga.fargot@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/arsen-sagatbekov-538a74315](https://linkedin.com/in/arsen-sagatbekov-538a74315)
